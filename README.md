@@ -1,4 +1,4 @@
-# Hi, I'm Hasan Can Öktem
+# Hi, I'm  Can 
 
 I am a Backend and AI developer based in Istanbul. I prefer a hands-on approach, focusing on building functional systems and backend architectures rather than passive theory. I am currently studying Computer Programming and preparing to transition into a Computer Engineering degree.
 
