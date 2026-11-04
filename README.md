@@ -1,11 +1,11 @@
-# Hi, I'm Can 
+# Hi, I'm  Can 
 
 I am a Backend and AI developer based in Istanbul. I prefer a hands-on approach, focusing on building functional systems and backend architectures rather than passive theory.
 
 ### Current Projects & Focus
+* **Nurvix:** A Discord-style messaging application.
 * **Algorithmic Trading:** Python-based trade automations utilizing ICT/SMC concepts.
 * **LLMTOP:** A terminal-based dashboard for monitoring local AI models.
-* * **Nurvix:** A multi-agent personal AI assistant with local file memory
 
 ### Languages and Tools
 
@@ -20,6 +20,9 @@ I am a Backend and AI developer based in Istanbul. I prefer a hands-on approach,
 
 ### Activity & Statistics
 
+<div align="right">
+  <img src="https://media.tenor.com/L4u3r_FepfIAAAAi/deadpool-marvel.gif" width="80" alt="Deadpool" />
+</div>
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=xeqtre-ui&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xeqtre-ui&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
